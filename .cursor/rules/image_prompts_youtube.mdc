@@ -1,0 +1,125 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# YouTube 영상용 이미지 생성 프롬프트 가이드
+
+## 개요  
+약 15분 길이의 YouTube 영상에서 **각 섹션별로 활용할 이미지**를 생성하기 위한  
+**Midjourney 프롬프트 작성 가이드**입니다.
+
+## 기본 포맷 (가로형 영상 기준)
+```
+[Section Theme], YouTube video background, [Professional Style], [Branded Elements], [Consistent Design], high quality visuals --ar 16:9 --v 6
+```
+
+## 섹션별 프롬프트 구성
+
+### 1. 썸네일 이미지  
+클릭률을 높일 수 있는 **매력적인 썸네일** 생성
+
+예시:
+```
+Eye-catching YouTube thumbnail design, bold contrast with subject focus, professional tech channel aesthetic, vibrant overlay elements, clickable visual hierarchy, high CTR design --ar 16:9 --v 6
+```
+
+### 2. 오프닝 (0–2분)  
+채널 브랜딩 및 이번 영상의 주제를 소개하는 섹션
+
+예시:
+```
+Modern YouTube channel intro background, animated tech elements, professional gradient backdrop, floating topic icons, branded color scheme, broadcast quality design --ar 16:9 --v 6
+```
+
+### 3. 문제 정의 (2–4분)  
+시청자가 공감할 수 있는 **문제 상황 시각화**
+
+예시:
+```
+Split-screen showing problem vs solution, professional presentation style, clear visual contrast, informative diagram elements, educational YouTube content, clean layout --ar 16:9 --v 6
+```
+
+### 4. 메인 콘텐츠 (4–12분)  
+개념 설명, 데모, 비교 분석 등을 지원하는 시각 자료 생성
+
+#### 4-1. 개념 설명용  
+```
+Detailed infographic for complex concepts, YouTube educational style, layered information design, professional color coding, step-by-step visual guide, clear annotations --ar 16:9 --v 6
+```
+
+#### 4-2. 실습/데모 화면용  
+```
+Clean workspace for demonstration, screen recording frame design, professional tutorial setup, highlighted action areas, YouTube tech channel style, practical layout --ar 16:9 --v 6
+```
+
+#### 4-3. 비교/분석 화면용 
+```
+Comparative chart design for YouTube, professional data visualization, clear distinction between options, branded comparison table, analytical presentation style --ar 16:9 --v 6
+```
+
+### 5. 요약 및 주요 포인트 정리 (12–14분)  
+학습 내용 요약, 핵심 포인트 재확인
+
+예시:
+```
+Summary slide with key takeaways, YouTube conclusion design, numbered important points, memorable visual recap, professional closing graphics, retention-focused layout --ar 16:9 --v 6
+```
+
+### 6. 엔딩/구독 유도 (14–15분)  
+채널 구독, 관련 콘텐츠 링크, 외부 링크(블로그 등) 유도
+
+예시:
+```
+YouTube end screen template, subscribe button emphasis, related content suggestions, professional channel branding, clear call-to-action design, engagement elements --ar 16:9 --v 6
+```
+
+## YouTube 전용 디자인 요소
+
+### 📌 비주얼 스타일
+- `broadcast quality design` — 방송 품질 수준의 디자인
+- `professional YouTube aesthetic` — 전문가 느낌의 YouTube 스타일
+- `educational content style` — 교육 콘텐츠에 최적화된 구성
+- `tech channel branding` — 테크/IT 유튜브 채널에 어울리는 브랜드 표현
+- `consistent visual language` — 콘텐츠 전반에 걸친 일관된 시각 언어
+
+### 📌 정보 계층 표현
+- `clear visual hierarchy` — 명확한 시각적 계층 구조
+- `numbered sections` — 번호 기반의 구조적 구분
+- `highlighted key points` — 강조된 핵심 포인트
+- `progressive information reveal` — 단계적 정보 공개 방식
+- `structured content layout` — 체계적이고 정돈된 레이아웃
+
+### 📌 브랜딩 요소
+- `channel color scheme` — 채널 고유 색상 팔레트
+- `consistent logo placement` — 일관된 위치의 로고 배치
+- `branded design elements` — 브랜드 정체성을 반영한 디자인 구성 요소
+- `professional typography` — 전문적인 타이포그래피 사용
+- `recognizable visual identity` — 쉽게 인식 가능한 시각적 아이덴티티
+
+## 장시간 영상 최적화를 위한 전략
+
+### 🔍 시청 유지율 향상 전략
+- 섹션마다 시각적 전환을 줘서 집중도 유지
+- 중요한 정보는 시각적으로 강조
+- 지루하지 않도록 다양한 레이아웃 활용
+- 현재 위치를 보여주는 프로그레스 바 형태의 요소 포함
+
+### 🔍 정보 구조화 및 전달 방식
+- 복잡한 내용을 **단계적으로 시각화**
+- 핵심 정리를 통한 회고 시각 제공
+- 챕터 구성에 맞춘 시각적 흐름 제공
+- 관련 정보 간의 관계를 **시각적으로 표현**
+
+### 🔍 시청자 참여 유도
+- 시청자 액션 유도를 위한 인트로/아웃트로 시각 요소
+- 댓글 참여를 유도하는 비주얼 구성
+- SNS 공유, 링크 유도 등 디자인 포함
+- "다음 영상 예고" 등 연결 요소 배치
+
+## 실무 적용 시 고려사항
+- 영상 편집 툴(예: Premiere Pro, Final Cut)에서 다루기 쉬운 포맷일 것
+- 자막/텍스트 오버레이 공간 확보
+- 애니메이션 적용 가능성 고려
+- 모바일·태블릿 등 다양한 해상도에서의 가독성
+- 접근성 고려 (명암 대비, 시각적 구분 등)

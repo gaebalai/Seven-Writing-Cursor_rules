@@ -1,0 +1,86 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# 블로그 게시글용 이미지 생성 프롬프트 가이드
+
+## 개요  
+블로그 게시글 내 각 `H2 제목`에 대응하는 이미지를 생성하기 위한 **Midjourney 프롬프트 작성 가이드**입니다.  
+특히 기술 콘텐츠, 업무 생산성, 디자인 관련 포스트에 적합한 시각 자료를 효과적으로 생성할 수 있습니다.
+
+## 기본 포맷
+```
+[Subject/Main Object], [Scene/Environment], [Style/Artistic Direction], [Lighting/Mood], [Additional Details], --ar 16:9 --v 6
+```
+
+## 프롬프트 작성 핵심 포인트
+
+### 1. 기술 관련 블로그의 경우
+- 추상적인 개념을 시각적으로 표현
+- 모던하고 미니멀한 디자인 강조
+- 기술 느낌이 나는 색상 사용 (파랑, 보라, 녹색 계열)
+- 기하학적 도형 또는 패턴 활용
+
+예시:
+```
+Abstract network of glowing nodes and connections, futuristic digital landscape, minimalist tech illustration, soft blue and purple gradient lighting, floating data particles, clean modern design --ar 16:9 --v 6
+```
+
+### 2. 비즈니스 / 생산성 관련 블로그의 경우
+- 전문적이고 신뢰감 있는 분위기
+- 밝고 긍정적인 이미지
+- 인물이 포함될 경우 다양한 인종/성별 반영
+- 오피스 환경, 협업 장면 등 표현
+
+예시:
+```
+Diverse team collaborating around holographic display, modern office space, professional business illustration, bright natural lighting, productive atmosphere, clean corporate style --ar 16:9 --v 6
+```
+
+### 3. 3. 창의성 / 디자인 관련 블로그의 경우
+- 예술적이고 실험적인 표현
+- 생생한 색채 사용
+- 창의적인 작업 과정 자체를 시각화
+- 영감을 주는 시선 구성
+
+예시:
+```
+Creative workspace with floating colorful ideas, artistic studio environment, vibrant illustration style, dynamic lighting with color splashes, creative tools and elements, inspirational mood --ar 16:9 --v 6
+```
+
+## 스타일 지정 키워드
+
+### 일러스트 스타일
+- `minimalist illustration` - 미니멀한 일러스트 스타일
+- `isometric design` - 아이소메트릭 디자인
+- `flat design style` - 플랫 디자인 스타일
+- `3D render` - 3D 렌더링 스타일
+- `vector art style` - 벡터 아트 스타일
+
+### 무드 / 분위기
+- `professional atmosphere` - 전문적인 분위기
+- `futuristic mood` - 미래적인 무드
+- `warm and inviting` - 따뜻하고 친근한 느낌
+- `clean and modern` - 깔끔하고 현대적인 스타일
+- `dynamic and energetic` - 활기차고 역동적인 분위기
+
+### 조명 효과
+- `soft gradient lighting` - 부드러운 그라데이션 조명
+- `dramatic spotlight` - 드라마틱한 스포트라이트 효과
+- `natural daylight` - 자연광
+- `neon glow effects` - 네온 조명 효과
+- `ambient lighting` - 은은한 조명
+
+## 피해야 할 요소
+- 지나치게 복잡한 구도
+- 텍스트나 글자 삽입 (Midjourney는 텍스트 생성이 정확하지 않음)
+- 브랜드 로고, 저작권 캐릭터 등의 사용
+- 너무 어두운 이미지나 부정적인 감성
+- 구식의 디자인 스타일
+
+## 실무 적용 시 유의사항
+- **게시글의 주제와 톤**에 맞게 이미지 스타일을 조정할 것
+- **타깃 독자층**을 고려한 시각적 표현 선택
+- **블로그 전체의 통일된 디자인 컨셉** 유지
+- **접근성 고려** (예: 명암 대비, 색맹 대응 등)

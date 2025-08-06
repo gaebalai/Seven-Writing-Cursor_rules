@@ -1,0 +1,101 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# 쇼츠(Shorts)/TikTok 영상용 이미지 생성 프롬프트 가이드
+
+## 개요  
+TikTok 또는 YouTube 쇼츠(60초 이내)용 영상에서  
+**각 장면별로 사용할 이미지를 생성하기 위한 Midjourney 프롬프트 작성 가이드**입니다.
+
+## 기본 포맷 (세로형 영상 기준)
+```
+[Scene Description], vertical composition for mobile, [Visual Style], [Dynamic Elements], [Color Scheme], eye-catching visuals --ar 9:16 --v 6
+```
+
+## 장면별 프롬프트 구성
+
+### 1. 훅(도입부) 장면 (0–3초)  
+**시작 3초 이내에 시청자의 이목을 확 끌어야 하는 장면**
+
+예시:
+```
+Explosive burst of colorful data streams, vertical mobile screen composition, high-energy motion graphics, neon bright colors, attention-grabbing visual impact, dynamic particles --ar 9:16 --v 6
+```
+
+### 2. 문제 제기 장면 (4–15초)  
+**시청자가 공감할 수 있는 문제 상황을 시각화**
+
+예시:
+```
+Frustrated person surrounded by chaotic floating tasks, vertical composition, cartoon illustration style, overwhelming red warning symbols, stressed expression, mobile-first design --ar 9:16 --v 6
+```
+
+### 3. 해결 방법 제시 장면 (16–40초)  
+**솔루션을 단계적으로 소개하는 시각적 흐름**
+
+예시:
+```
+Step-by-step visual guide with numbered floating panels, vertical mobile layout, clean infographic style, bright solution-focused colors, organized flow arrows, clear hierarchy --ar 9:16 --v 6
+```
+
+### 4. 결과 / 베네핏 장면 (41–55초)  
+**해결 후 긍정적인 상태나 혜택을 표현**
+
+예시:
+```
+Happy person celebrating success with confetti, vertical composition, vibrant celebration style, golden achievement glow, positive energy burst, triumphant mood --ar 9:16 --v 6
+```
+
+### 5. CTA(Call to Action) 장면 (56–60초)  
+**블로그 링크나 상세 정보로 유도하는 마무리 장면**
+
+예시:
+```
+Glowing "Learn More" button with pointing arrows, vertical mobile screen, modern UI design, pulsing animation effect, contrasting call-to-action colors, urgency elements --ar 9:16 --v 6
+```
+
+## 쇼츠 영상용 스타일 키워드
+
+### 📌 비주얼 스타일
+- `motion graphics style` — 모션 그래픽 스타일
+- `cartoon animation style` — 카툰 애니메이션 스타일
+- `kinetic typography ready` — 키네틱 타이포그래피 적용 가능
+- `social media aesthetic` — SNS 지향 스타일
+- `trendy visual style` — 트렌디하고 최신 감각의 스타일
+
+### 📌 동적 요소 표현
+- `floating elements` — 부유하는 시각 요소
+- `explosive effects` — 폭발적인 효과
+- `smooth transitions ready` — 부드러운 전환 효과 전제
+- `animated particles` — 애니메이션 입자 요소
+- `dynamic movement lines` — 움직임을 강조하는 선형 요소
+
+### 📌 컬러 스킴
+- `high contrast colors` — 고대비 색상 구성
+- `vibrant neon palette` — 강렬한 네온 색상
+- `trending color scheme` — 최신 트렌드 색상 조합
+- `eye-catching gradients` — 눈길을 끄는 그라데이션
+- `bold color combinations` — 대담한 색상 조합
+
+## 세로형 영상 최적화 전략
+
+### 🧩 구성 방식 팁
+- **핵심 요소는 화면 중앙에 배치**
+- 상하 여백을 활용하여 콘텐츠 구분
+- **텍스트나 자막 영역을 미리 고려한 구성**
+- 영상 썸네일로도 사용할 수 있는 시각적 완성도 확보
+
+### 📱 모바일 환경 중심 설계
+- 작은 화면에서도 잘 보이는 이미지/텍스트 크기
+- 복잡하지 않고 직관적인 시각 요소 구성
+- 고대비 색상 사용으로 시인성 확보
+- 터치 기반 상호작용 흐름을 고려한 디자인
+
+## 실무 적용 시 주의 사항
+- 모든 장면이 **시각적 톤과 스타일에서 일관성**을 유지해야 함
+- 트랜지션(장면 전환 효과)을 고려한 시각 흐름 설계
+- 배경 음악(BGM)이나 효과음과 조화를 이루는 시각 요소
+- **짧은 시간에 적절한 정보량을 전달할 수 있도록 시각 요소 간소화**
+- 루프 재생에 대비하여 **시작과 끝의 자연스러운 연결성** 확보
