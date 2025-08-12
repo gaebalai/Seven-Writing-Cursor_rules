@@ -39,7 +39,7 @@ alwaysApply: false
 └── image_prompts_youtube.md    # YouTube 영상용 이미지 프롬프트 가이드
 ```
 
-## 各フォルダの役割
+## 각 폴더의 역할
 
 - **001_memo/**:
   - **01_active/**: 현재 작업 중인 키워드 및 메모 파일 저장
@@ -151,7 +151,7 @@ alwaysApply: false
 ### 6. 프레젠테이션 슬라이드 지침 작성
 
 1. **프레젠테이션 슬라이드 안내서 만들기**
-   - `/Users/tk/★★project/02_Active/03_Vibe-coding/01_テスト/01_active/01_writing/600_presen/01_draft/` 폴더에 지침 작성
+   - `/Users/gaebalai/project/Vibe-coding/01_active/01_writing/600_presen/01_draft/` 폴더에 지침 작성
    - **블로그 기사, 짧은 동영상, YouTube 동영상을 지원하는 그림 슬라이드**
    - **흰색을 베이스 컬러로 해, 배색을 억제한 심플한 디자인(2-3색까지)**
    - ** 각 슬라이드에 대한 자세한 제작 지침 **
@@ -162,7 +162,7 @@ alwaysApply: false
 ### 7. YouTube 동영상 대본 만들기
 
 1. **YouTube 15분 동영상용 대본 만들기**
-   - `/Users/tk/★★project/02_Active/03_Vibe-coding/01_テスト/01_active/01_writing/700_youtube/01_draft/` 폴더에 대본 만들기
+   - `/Users/gaebalai/project/Vibe-coding/01_active/01_writing/700_youtube/01_draft/` 폴더에 대본 만들기
    - **15분 정도의 상세 해설 동영상**
    - 블로그 기사의 내용을 영상화
    - 섹션 구성(도입·본편·정리)
@@ -178,17 +178,16 @@ alwaysApply: false
 - 메일 매거진 배포 : '300_mail-magazine/02_commit/'로 이동
 - 라디오 전송 후 : '400_razio/02_commit/'로 이동
 - 짧은 동영상 게시 후 :`500_short-movie/02_commit/`로 이동
-- 프레젠테이션 완료 후: `/Users/gaebalai/★★project/02_Active/03_Vibe-coding/01_test/01_active/01_writing/600_presen/02_commit/`로 이동
-- YouTube 동영상 게시 후 :`/Users/gaebalai/★★project/02_Active/03_Vibe-coding/01_test/01_active/01_writing/700_youtube/02_commit/`로 이동
+- 프레젠테이션 완료 후: `/Users/gaebalai/project/Vibe-coding/01_active/01_writing/600_presen/02_commit/`로 이동
+- YouTube 동영상 게시 후 :`/Users/gaebalai/project/Vibe-coding/01_active/01_writing/700_youtube/02_commit/`로 이동
 - **모든 기사를 작성한 메모**: `001_memo/01_active/`에서 `001_memo/02_close/`로 이동
 
-
-## コンテンツ作成の基本方針
+## 콘텐츠 작성의 기본 방침
 
 ### 공통 문장 스타일
-- **자연한 일본어로 조금 부서진 어조로 쓴다**
+- **자연스러운 한국어로 딱딱하지 않게, 자연스럽고 친근한 말투로 써 주세요**
 - **중복 표현은 피하고 간결하고 읽기 쉬운 문장으로 한다**
-- **"~ 할 수 있습니다" → "~ 할 수 있습니다"와 같이 짧게**
+- **"~ 할 수 있습니다" → "~ 할 수 있다"와 같이 짧게**
 - **불필요한 접속사나 전치는 깎는다**
 - **독자와의 거리감을 줄이는 친숙한 표현 사용**
 
@@ -217,7 +216,7 @@ alwaysApply: false
 
 ### 메일 매거진
 - **일반 텍스트 형식으로 작성(마크다운 형식은 사용하지 않음)**
-- **반드시 시작에 '안녕하세요!야키모모입니다!'를 넣는다**
+- **반드시 시작에 '안녕하세요! 길동입니다!'를 넣는다**
 - 블로그 기사의 가치를 전달하는 도입
 - 읽기 혜택을 명확하게 제시
 - 부분적인 내용 소개로 관심을 끌기
